@@ -1,1 +1,2 @@
 # Lunar-System
+The Lunar System is a course registration system designed for managing student enrollment in second-rate courses at a second-class school. This Java program utilizes a HashMap to store student data and takes user input to perform actions such as login, registration, de-registration, and viewing course enrollment. The program also offers options for the registrar to manage student records.
